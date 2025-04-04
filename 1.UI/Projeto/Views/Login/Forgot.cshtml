@@ -1,0 +1,26 @@
+@{
+    Layout = null;
+    ViewData["Title"] = "Esqueceu a senha";
+}
+<link href="~/css/login.css" rel="stylesheet"/>
+<head>
+    <title>Recuperar Senha.</title>
+</head>
+<section>
+    <form id="forgotForm-146">
+        <h1>Digite seu E-mail!</h1>
+        <img id="logoCadeado" src="~/images/logocadeadologin.png"  alt="Logo Cadeado">
+        <input type="email"    id="email-146"   name="email" placeholder="E-mail"/>
+        <label>Não tem conta? <a href="/cadastro">Crie Aqui.</a></label>
+        <button type="submit" id="btnForgot">Recuperar.</button>
+    </form> 
+</section>
+
+
+<!-- Esse código importa o jquery.js "-->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<!-- Esse código importa o Login.js na sua página de login. Ele diz ao navegador: 
+"Pegue o arquivo Login.js que está na pasta wwwroot/js/ e execute-o nesta página."-->
+<script src="~/js/forgot.js"></script>
+

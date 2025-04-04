@@ -1,0 +1,347 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\appsettings.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.runtime.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\cfc149a20m-b9sayid5wm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\10hatqaosd-61n19gt1b8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\zx4x1xls8a-xtxxf3hu2r.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\d1yq3vsoeo-bqjiyaj88i.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\rtkirzcpdn-c2jlpeoesf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\rwrxtkcmvq-erw9l3u2r3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\q9zt6qd728-aexeepp0ev.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\yh9oy9g0ah-d7shbmvgxk.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\pcsclg2mxo-ausgxo2sd3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\0yl40p01rj-k8d9w2qqmf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\whtvc11055-cosvhxvwiu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\7bzvuhicjd-ub07r2b239.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\lwjv4y3guh-fvhpjtyr6v.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\50u1id6srv-b7pk76d08c.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\2zwvcukfc3-fsbi9cje9m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\ucjyrlz7ag-rzd6atqjts.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\bilhuasmkp-ee0r1s7dh0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\214sl46l3w-dxx9fxp4il.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\gaxqcxn92g-jd9uben2k1.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\a8jondxvpb-khv3u5hwcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\lzlahulo43-r4e9w2rdcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\6zonq5r6at-lcd1t2u6c8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\px0ur89ta9-c2oey78nd0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\dyntjzcs61-tdbxkamptv.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\b97p99me8d-j5mq2jizvt.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\90deahmrqv-06098lyss8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\zfc8ulbupn-nvvlpmu67g.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\zk3jb2bpa0-s35ty4nyc5.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\auita56q7h-pj5nd1wqec.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\fov385ycuw-46ein0sx1k.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\vqmrvr2z1j-v0zj4ognzu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\f1829h1fd7-37tfw0ft22.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\8ieenf2d65-hrwsygsryq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\nhgue6nx65-pk9g2wxc8p.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\6v7egnzh3n-ft3s53vfgj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\y4kxg3u5pt-6cfz1n2cew.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\0bwu1gwwiq-6pdc2jztkx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\5egk6anacv-493y06b0oq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\1h3qxij81y-iovd86k7lj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\ydw5bzluv2-vr1egmr9el.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\wa4edv5lih-kbrnm935zg.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\rkg2qrwkoa-jj8uyg4cgr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\9jmsnygd15-y7v9cxd14o.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\05wclp7q4i-notf2xhcfb.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\f11zstscy0-h1s4sie4z3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\z4e0z09uw8-63fj8s7r0e.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\f7vgtnf4tu-0j3bgjxly4.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\r6jl4frb12-47otxtyo56.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\3u4f0j2c0c-4v8eqarkd7.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\pbfeyqx8b7-356vix0kms.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\oxep8wcm7p-83jwlth58m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\pxlcxly8zr-mrlpezrjn3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\t3ce56q76p-lzl9nlhx6b.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\3lfq8ookwb-ag7o75518u.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\fuk937bb2i-x0q3zqp4vz.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\un65k78kyi-0i3buxo5is.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\v28f1n7txy-o1o13a6vjx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\hqu9aum7i1-ttgo8qnofa.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\8b9nyuyhfd-2z0ns9nrw6.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\dk9gd0lbvr-muycvpuwrr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\wi2kp5pg1m-87fc7y1x7t.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\7l65v8l3sl-mlv21k5csn.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\65jixve2yi-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\jmqi646q8t-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\refint\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\ref\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\08bsgzz6ny-6p85ngi01z.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\compressed\pnmyu10m3m-ghtow6mg7o.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\Projeto\obj\Debug\net9.0\Projeto.csproj.Up2Date
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\appsettings.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.runtime.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\pnmyu10m3m-ghtow6mg7o.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\cfc149a20m-b9sayid5wm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\10hatqaosd-61n19gt1b8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\zx4x1xls8a-xtxxf3hu2r.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\d1yq3vsoeo-bqjiyaj88i.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\rtkirzcpdn-c2jlpeoesf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\rwrxtkcmvq-erw9l3u2r3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\q9zt6qd728-aexeepp0ev.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\yh9oy9g0ah-d7shbmvgxk.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\pcsclg2mxo-ausgxo2sd3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\0yl40p01rj-k8d9w2qqmf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\whtvc11055-cosvhxvwiu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\7bzvuhicjd-ub07r2b239.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\lwjv4y3guh-fvhpjtyr6v.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\50u1id6srv-b7pk76d08c.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\2zwvcukfc3-fsbi9cje9m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\ucjyrlz7ag-rzd6atqjts.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\bilhuasmkp-ee0r1s7dh0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\214sl46l3w-dxx9fxp4il.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\gaxqcxn92g-jd9uben2k1.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\a8jondxvpb-khv3u5hwcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\lzlahulo43-r4e9w2rdcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\6zonq5r6at-lcd1t2u6c8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\px0ur89ta9-c2oey78nd0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\dyntjzcs61-tdbxkamptv.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\b97p99me8d-j5mq2jizvt.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\90deahmrqv-06098lyss8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\zfc8ulbupn-nvvlpmu67g.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\zk3jb2bpa0-s35ty4nyc5.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\auita56q7h-pj5nd1wqec.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\fov385ycuw-46ein0sx1k.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\vqmrvr2z1j-v0zj4ognzu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\f1829h1fd7-37tfw0ft22.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\8ieenf2d65-hrwsygsryq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\nhgue6nx65-pk9g2wxc8p.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\6v7egnzh3n-ft3s53vfgj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\y4kxg3u5pt-6cfz1n2cew.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\0bwu1gwwiq-6pdc2jztkx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\5egk6anacv-493y06b0oq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\1h3qxij81y-iovd86k7lj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\ydw5bzluv2-vr1egmr9el.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\wa4edv5lih-kbrnm935zg.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\rkg2qrwkoa-jj8uyg4cgr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\9jmsnygd15-y7v9cxd14o.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\05wclp7q4i-notf2xhcfb.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\f11zstscy0-h1s4sie4z3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\z4e0z09uw8-63fj8s7r0e.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\f7vgtnf4tu-0j3bgjxly4.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\r6jl4frb12-47otxtyo56.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\3u4f0j2c0c-4v8eqarkd7.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\pbfeyqx8b7-356vix0kms.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\oxep8wcm7p-83jwlth58m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\pxlcxly8zr-mrlpezrjn3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\t3ce56q76p-lzl9nlhx6b.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\3lfq8ookwb-ag7o75518u.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\fuk937bb2i-x0q3zqp4vz.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\un65k78kyi-0i3buxo5is.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\v28f1n7txy-o1o13a6vjx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\hqu9aum7i1-ttgo8qnofa.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\8b9nyuyhfd-2z0ns9nrw6.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\dk9gd0lbvr-muycvpuwrr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\wi2kp5pg1m-87fc7y1x7t.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\7l65v8l3sl-mlv21k5csn.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\65jixve2yi-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\jmqi646q8t-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.csproj.Up2Date
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\refint\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\ref\Projeto.dll
+c:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\08bsgzz6ny-xkauaaw2h3.gz
+c:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1. UI\Projeto\obj\Debug\net9.0\compressed\rm0s8j62c6-gs2hxaezb9.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\appsettings.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.runtime.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.staticwebassets.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Common.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Common.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\scopedcss\bundle\Projeto.styles.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\scopedcss\projectbundle\Projeto.bundle.scp.css
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\cfc149a20m-b9sayid5wm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\10hatqaosd-61n19gt1b8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\d1yq3vsoeo-bqjiyaj88i.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\rtkirzcpdn-c2jlpeoesf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\rwrxtkcmvq-erw9l3u2r3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\q9zt6qd728-aexeepp0ev.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\yh9oy9g0ah-d7shbmvgxk.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\pcsclg2mxo-ausgxo2sd3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\0yl40p01rj-k8d9w2qqmf.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\whtvc11055-cosvhxvwiu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\7bzvuhicjd-ub07r2b239.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\lwjv4y3guh-fvhpjtyr6v.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\50u1id6srv-b7pk76d08c.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\2zwvcukfc3-fsbi9cje9m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\ucjyrlz7ag-rzd6atqjts.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\bilhuasmkp-ee0r1s7dh0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\214sl46l3w-dxx9fxp4il.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\gaxqcxn92g-jd9uben2k1.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\a8jondxvpb-khv3u5hwcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\lzlahulo43-r4e9w2rdcm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\6zonq5r6at-lcd1t2u6c8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\px0ur89ta9-c2oey78nd0.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\dyntjzcs61-tdbxkamptv.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\b97p99me8d-j5mq2jizvt.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\90deahmrqv-06098lyss8.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\zfc8ulbupn-nvvlpmu67g.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\zk3jb2bpa0-s35ty4nyc5.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\auita56q7h-pj5nd1wqec.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\fov385ycuw-46ein0sx1k.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\vqmrvr2z1j-v0zj4ognzu.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\f1829h1fd7-37tfw0ft22.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\8ieenf2d65-hrwsygsryq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\nhgue6nx65-pk9g2wxc8p.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\6v7egnzh3n-ft3s53vfgj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\y4kxg3u5pt-6cfz1n2cew.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\0bwu1gwwiq-6pdc2jztkx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\5egk6anacv-493y06b0oq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\1h3qxij81y-iovd86k7lj.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\ydw5bzluv2-vr1egmr9el.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\wa4edv5lih-kbrnm935zg.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\rkg2qrwkoa-jj8uyg4cgr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\9jmsnygd15-y7v9cxd14o.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\05wclp7q4i-notf2xhcfb.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\f11zstscy0-h1s4sie4z3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\z4e0z09uw8-63fj8s7r0e.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\f7vgtnf4tu-0j3bgjxly4.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\r6jl4frb12-47otxtyo56.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\3u4f0j2c0c-4v8eqarkd7.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\pbfeyqx8b7-356vix0kms.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\oxep8wcm7p-83jwlth58m.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\pxlcxly8zr-mrlpezrjn3.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\t3ce56q76p-lzl9nlhx6b.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\3lfq8ookwb-ag7o75518u.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\fuk937bb2i-x0q3zqp4vz.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\un65k78kyi-0i3buxo5is.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\v28f1n7txy-o1o13a6vjx.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\hqu9aum7i1-ttgo8qnofa.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\8b9nyuyhfd-2z0ns9nrw6.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\dk9gd0lbvr-muycvpuwrr.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\wi2kp5pg1m-87fc7y1x7t.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\7l65v8l3sl-mlv21k5csn.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\65jixve2yi-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\jmqi646q8t-g46097kpdq.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.Projeto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.build.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Projeto.props
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.csproj.Up2Date
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\refint\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\Projeto.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\ref\Projeto.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\pnmyu10m3m-6mid4o2b05.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\08bsgzz6ny-nihra5vpxs.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.staticwebassets.runtime.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.staticwebassets.endpoints.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NJsonSchema.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.Core.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Repository.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\API.xml
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\bin\Debug\net9.0\Repository.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\msw9m22230-ytncacv4rn.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\ixd2azpirm-333txur94p.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\l5eis97bui-vi6pigzidm.gz
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\1.UI\Projeto\obj\Debug\net9.0\compressed\5gzayu6yrg-c823ocp2zv.gz

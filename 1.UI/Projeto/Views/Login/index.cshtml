@@ -1,0 +1,31 @@
+@model Projeto.Models.CadastroViewModel
+<!-- Arroba model Diz para a View qual classe será usada como modelo de dados.
+ Projeto.Models.UserViewModel → É a classe que representa os dados que essa View pode acessar e exibir.  -->
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+<link href="~/css/login.css" rel="stylesheet"/>
+<head>
+    <title>Login</title>
+</head>
+<section>
+    <form id="loginForm-146">
+        <h1>Autenticação</h1>
+        <img id="logoCadeado" src="~/images/logocadeadologin.png"  alt="Logo Cadeado">
+        <input type="email"    id="email-146"   name="email"    required value="@Model.Email" placeholder="E-mail"/>
+        <input type="password" id="password-146" name="Senha"   required value="@Model.Senha" placeholder="Digite sua Senha"/>    
+        <a href="/Login/Forgot">Esqueceu a senha?</a>
+        <label>Não tem conta? <a href="http://localhost:5273/cadastro">Crie Aqui.</a></label>
+        <button type="submit" id="btnLogin">Login</button>
+    </form> 
+</section>
+
+
+<!-- Esse código importa o jquery.js "-->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<!-- Esse código importa o Login.js na sua página de login. Ele diz ao navegador: 
+"Pegue o arquivo Login.js que está na pasta wwwroot/js/ e execute-o nesta página."-->
+<script src="~/js/login.js"></script>
+

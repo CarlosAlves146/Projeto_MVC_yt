@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\1.UI\\Projeto\\Projeto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\1.UI\\Projeto\\Projeto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\1.UI\\Projeto\\Projeto.csproj",
+        "projectName": "Projeto",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\1.UI\\Projeto\\Projeto.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\1.UI\\Projeto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\API.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\API.csproj"
+              },
+              "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj"
+              },
+              "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\3.Data\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\C#_Iniciante\\Projeto_MVC_yt\\2.Application\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

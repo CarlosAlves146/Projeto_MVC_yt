@@ -1,0 +1,31 @@
+@model Projeto.Models.CadastroViewModel
+<!-- Arroba model Diz para a View qual classe será usada como modelo de dados.
+ Projeto.Models.UserViewModel → É a classe que representa os dados que essa View pode acessar e exibir.  -->
+@{
+    Layout = null;
+}
+<head>
+    <title>Cadastro</title>
+</head>
+<link href="~/css/cadastro.css" rel="stylesheet"/>
+<section>
+    <form>
+        <h1>Criar Conta</h1>
+        <input type="text"     id="namecompleto-146"   name="NomeCompleto" required value="@Model.NomeCompleto" placeholder="Nome Completo"/>
+        <input type="text"     id="usuario-146"        name="Usuario"      required value="@Model.Usuario"      placeholder="Usuário"/>
+        <input type="email"     id="email-146"          name="Email"        required value="@Model.Email"        placeholder="E-mail"/>
+        <input type="date"     id="nascimento-146"     name="Nascimento"   required value="@Model.Nascimento"   placeholder="Data de Nascimento"/>
+        <input type="password" id="password-146"       name="Senha"        required value="@Model.Senha"        placeholder="Digite sua Senha"/>
+        <input type="password" id="confirpassword-146" name="Confirmação Senha" required value="@Model.ConfirmacaoSenha" placeholder="Confirme sua Senha"/>
+        <button type="submit" id="btncadastro-146">Criar</button>
+        <label id="volta-146">Já tem conta? <a href="http://localhost:5273/">Crie Aqui, para voltar.</a></label>
+    </form>
+</section>
+
+
+<!-- Esse código importa o jquery.js "-->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<!-- Esse código importa o Cadastro.js na sua página de Cadastro. Ele diz ao navegador: 
+"Pegue o arquivo Cadastro.js que está na pasta wwwroot/js/ e execute-o nesta página."-->
+<script src="~/js/cadastro.js"></script>

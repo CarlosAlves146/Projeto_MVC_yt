@@ -1,0 +1,92 @@
+/* Definindo o estilo básico para a página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte da página */
+    background-color: #121212; /* Cor de fundo escura */
+    color: #E0E0E0; /* Texto claro para contraste */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do formulário */
+form {
+    max-width: 400px; /* Largura máxima do formulário */
+    margin: 50px auto; /* Centraliza o formulário na tela */
+    padding: 20px;
+    background-color: #1F1F1F; /* Fundo do formulário */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Sombra sutil */
+}
+
+/* Título do formulário */
+h1 {
+    text-align: center;
+    color: #FF9800; /* Cor laranja para destacar */
+    margin-bottom: 20px;
+}
+
+/* Estilo dos campos de entrada */
+input {
+    width: 100%; /* Preenche toda a largura do formulário */
+    padding: 10px;
+    margin: 10px 0; /* Espaço entre os campos */
+    border: 1px solid #333; /* Borda escura */
+    border-radius: 4px; /* Bordas arredondadas */
+    background-color: #2C2C2C; /* Fundo escuro para os campos */
+    color: #E0E0E0; /* Cor do texto nos campos */
+    font-size: 16px; /* Tamanho da fonte */
+}
+
+input:focus {
+    outline: none; /* Remove a borda padrão ao focar no campo */
+    border-color: #FF9800; /* Cor da borda ao focar */
+}
+
+/* Estilo do botão de envio */
+button {
+    width: 100%; /* O botão ocupa toda a largura */
+    padding: 12px;
+    margin-top: 20px;
+    background-color: #FF9800; /* Fundo laranja */
+    color: white; /* Texto branco */
+    border: none; /* Remove a borda padrão */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-size: 18px; /* Tamanho da fonte */
+    cursor: pointer; /* Aponta o cursor como clique */
+}
+
+button:hover {
+    background-color: #FF5722; /* Cor laranja escuro ao passar o mouse */
+}
+
+/* Estilo do link "Esqueceu a senha?" */
+a {
+    color: #FF9800; /* Cor laranja para links */
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+
+/* Estilo geral da seção */
+section {
+    display: flex;
+    justify-content: center; /* Centraliza o formulário na tela */
+    align-items: center; /* Alinha o conteúdo verticalmente */
+    height: 100vh; /* Preenche toda a altura da tela */
+    background-color: #121212; /* Fundo escuro da tela */
+}
+
+/* Adiciona um efeito sutil para os campos */
+input::placeholder {
+    color: #BDBDBD; /* Cor cinza clara para o texto do placeholder */
+}
+
+input:focus::placeholder {
+    color: transparent; /* Torna o texto do placeholder invisível ao focar */
+}
+
+/* Adiciona um efeito de transição para suavizar as interações */
+input, button {
+    transition: all 0.3s ease; /* Transição suave ao interagir */
+}

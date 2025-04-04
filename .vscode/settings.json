@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "Projeto.sln",
+    "dataworkspace.excludedProjects": [
+        "MeuBanco/MeuBanco.sqlproj"
+    ]
+}
