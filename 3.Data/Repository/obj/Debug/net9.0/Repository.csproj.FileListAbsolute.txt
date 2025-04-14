@@ -24,3 +24,4 @@ C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\3.Data\Rep
 C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\3.Data\Repository\obj\Debug\net9.0\refint\Repository.dll
 C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\3.Data\Repository\obj\Debug\net9.0\Repository.pdb
 C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\3.Data\Repository\obj\Debug\net9.0\ref\Repository.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#_Iniciante\Projeto_MVC_yt\3.Data\Repository\obj\Debug\net9.0\Repository.sourcelink.json
